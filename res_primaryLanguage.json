@@ -15,10 +15,10 @@
         "startDate": "2020",
         "description": "The most expanded application I had work on. This application was designed for the academic activity for IIIT Lucknow during the COVID Pandamic. I have worked closely with the concerned faculty and Director for its development.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/iiitlClassroom/p2.png",
+          "images/portfolio/iiitlClassroom/p1.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/devji08/IIITL-Classroom",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -35,10 +35,10 @@
         "startDate": "2019",
         "description": "It is an ongoing project for the Devsthali Resort. The website allows costumers to view and book Rooms for stay and reserve table for meal.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/devsthaliResort/p1.jpg",
+          "images/portfolio/devsthaliResort/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://devji08.github.io/coursera-test/restraunt/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -58,7 +58,7 @@
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-java-plain",
