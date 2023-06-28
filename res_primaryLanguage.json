@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Dev. I am currently persuing my B.Tech in IT from Indian Institute of Information Technology, Lucknow. I'm working with newest front-end frameworks like React and React Native. Besides that I am also interested in Data Structures. Thank you 💜",
+      "description": "👋 Hi I am a software developer with a strong focus on results, a deep love of technology, and a strong dedication to ongoing development. I continuously work to stay on the cutting edge of market trends and improvements with an emphasis on creating scalable and effective products. I thrive in designing resilient structures, optimising algorithms, and resolving challenging issues because I have a strong foundation in software engineering principles. My work strategy is centred on collaboration because I recognise the importance of strong teamwork and communication in producing remarkable results. I use collective intelligence to create success by building a collaborative environment that promotes the exchange of ideas and different viewpoints. I strive to develop significant software solutions that go above and beyond client expectations with an uncompromising commitment to excellence. Let's shape the future of technology together 💜.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -73,9 +73,35 @@
     ],
     "experience": [
       {
+        "company": "Postman",
+        "title": "Software Engineer",
+        "years": "July 2022 - Present",
+        "mainTech": [
+          "React.js",
+          "node.js",
+          "TypeScript"
+        ],
+        "technologies": [
+          "git"
+        ]
+      },
+      {
+        "company": "Postman",
+        "title": "Software Engineer Intern",
+        "years": "January 2022 - June 2022",
+        "mainTech": [
+          "React.js",
+          "node.js",
+          "SQL"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
         "company": "MAQ Software",
         "title": "Associate Software Engineer",
-        "years": "May 2021 - present",
+        "years": "May 2021 - July 2021",
         "mainTech": [
           "SQL",
           "Power BI"

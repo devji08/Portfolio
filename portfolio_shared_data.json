@@ -24,9 +24,39 @@
     "skills": {
       "icons": [
         {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "Node.js",
+          "class" : "devicon-nodejs-plain",
+          "level": "90"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "95"
+        },
+        {
           "name": "C++",
           "class": "devicon-cplusplus-plain",
           "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": 70
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
+          "level": "90"
         },
         {
           "name": "Python",
@@ -37,16 +67,6 @@
           "name": "Java",
           "class": "devicon-java-plain",
           "level": "80"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
         },
         {
           "name": "React Native",
